@@ -1,7 +1,7 @@
 #include<iostream>
 #include<math.h>
 using namespace std;
-bool check_so_nguyen_to(int n)
+bool check_so_nguyen_to(int n) // kiểm tra xem 1 số có phải số nguyên tố hay không
 {
 	if (n < 2)
 	{
